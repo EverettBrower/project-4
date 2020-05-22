@@ -2,7 +2,7 @@
 
 #[Link to Everett Brower's web page](https://everettbrower.github.io/)
 
-<H2>281 Project 4 Learning Objectives<H2>
+<H2>281 Project 4 Learning Objectives</H2>
 - Build a To-Do app that uses the Web Storage API
 - The Web Storage API lets browsers store key/value pairs locally, to create a persistent data store
 - ES6 Class Types: The Basics
